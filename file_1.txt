@@ -1,5 +1,5 @@
 This is MY GIT Class
 
-Training is good
+Training is good and I like
 
 I am using Bash account
